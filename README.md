@@ -1,29 +1,30 @@
-# roket-oyunu
+# roket-oyunu 🚀 
 Bu repo java dilinde orta seviyede yaptığım roket oyununu içerir.
 # Uzay Oyunu (Roket Oyunu)
 
-**Uzay Oyunu**, oyuncunun roketini sağa ve sola hareket ettirerek, hareket halindeki topu engellemeye çalıştığı bir oyun. Java ve Swing kullanarak geliştirilmiştir. Bu proje, temel seviyede bir oyun geliştirme deneyimi sunmaktadır.
+**Uzay Oyunu**, oyuncunun roketini sağa ve sola hareket ettirerek, hareket halindeki topu engellemeye çalıştığı bir oyundur. Java ve Swing kullanarak geliştirilmiştir. Bu proje, temel seviyede bir oyun geliştirme deneyimi sunmaktadır.
 
-## Proje Hedefi
 
-Bu proje, Java ve Swing kullanarak basit bir oyun yapmanın temellerini atmak amacıyla geliştirilmiştir. Oyunda, kullanıcı roketini hareket ettirerek gelen topları engellemeye çalışır. Bu proje ileride daha gelişmiş özellikler eklenerek iyileştirilecektir.
+## Projenin Amacı ve Kullandığım Teknolojiler 👩🏻‍💻
 
-## Özellikler
+Java programla dilinde aldığım udemy kursumun desteğiyle yaptığım uzay oyunu projesini sizlere anlatmak istiyorum. Projemde Java Swing (GUI-Grfiksel Kullanıcı Arayüzü) , AWT,  Java Timer , ImageIO, OOP prensiplerini kullanarak 2D arcade oyunu geliştirmiş oldum. Böylece tüm kursun kazanımlarını tek bir projede uygulamış oldum ve aynı zamanda grafiksel kullanıcı arayüzü olan projelere ilgim daha da arttı o yüzden bu proje benim için iyi bir başlangıç oldu. 🎯 Java'da ve benzer projelerde kendimi geliştirdikçe bu projenin daha fazla özellik eklenmiş versiyonunu 
+GitHub sayfamda bulabilirsiniz. 🧩🚀
+
+## Özellikler 📝
 - **Roket Hareketi**: Kullanıcı sol ve sağ ok tuşlarıyla roketini hareket ettirebilir.
 - **Ateş Etme**: Kullanıcı **CTRL** tuşuna basarak roketinden ateş edebilir.
 - **Top Engelleme**: Top, hareket eder ve roketin vurduğu top kazanma durumunu tetikler.
-- **Kazandığınızda Mesaj**: Eğer top roket tarafından vurulursa, oyun sona erer ve kazandığınız mesajı gösterilir.
+- **Kazandığınızda Mesaj**: Eğer top roket tarafından vurulursa, oyun sona erer ve kazandığınız mesajı gösterilir. Aynı zamanda atış sayısı ve geçen süre de gösterilir.
 
-## Ekran Görüntüleri
+  
+## Video 🎮 
+Aşağıya oyunun nasıl oynandığına ve temel özelliklerine dair bir video ekledim.
 
-![Game Screenshot 1](path/to/screenshot1.png)
-![Game Screenshot 2](path/to/screenshot2.png)
 
-## Kurulum ve Çalıştırma
 
-Projenin çalışması için aşağıdaki adımları izleyebilirsiniz:
+https://github.com/user-attachments/assets/371ab02b-fdc5-4802-a59c-77d888fd10a7
 
-1. **Java SDK**'nın bilgisayarınızda kurulu olduğundan emin olun. (Java 8 veya daha üstü önerilir)
-2. GitHub'dan projeyi klonlayın:
-   ```bash
-   git clone https://github.com/username/repository_name.git
+
+
+
+
