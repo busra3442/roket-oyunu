@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="UzayOyunu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts.jar</output-path>
+    <root id="archive" name="UzayOyunu.jar">
+      <element id="module-output" name="UzayOyunu" />
+    </root>
+  </artifact>
+</component>
